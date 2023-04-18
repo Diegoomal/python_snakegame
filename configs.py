@@ -1,0 +1,11 @@
+class Configs:
+
+    WIDTH = 800
+    HEIGHT = 600
+
+    START_POSITION_X = WIDTH/2
+    START_POSITION_Y = HEIGHT/2
+
+    GRID_SIZE = 20
+
+    UPDATE_TIME = 100
